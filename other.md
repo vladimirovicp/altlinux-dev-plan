@@ -27,3 +27,6 @@ https://kiper220-alt.github.io/ - Пакеты Саратовского офис
     - https://uneex.ru/Books/LinuxIntro - Введение в ОС Linux
     - https://uneex.ru/LecturesCMC/PythonIntro2024 - Язык программирования Python
 
+
+    - https://docs.python.org/3/ - Python documentation
+
