@@ -19,7 +19,7 @@
 - https://alt-kde.wiki/ - открытое сообщество пользователей операционной системы ALT Regular KDE
 - https://alt-gnome.wiki/ - база знаний операционных систем ALT Regular Gnome и ALT Starterkit Gnome
 
-https://kiper220-alt.github.io/ - Пакеты Саратовского офиса версии???.
+- https://kiper220-alt.github.io/ - сравнялка версий
 
 
 ## Обучение
