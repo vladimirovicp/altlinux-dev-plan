@@ -30,3 +30,14 @@
 
     - https://docs.python.org/3/ - Python documentation
 
+  
+
+  - [Руководство по сборке RPM-пакетов для дистрибутивов Альт](https://alt-packaging-guide.github.io/) 
+  - [Хабр 2024: Введение в сборку RPM-пакетов в ОС «Альт» Linux: основы и первый пример](https://habr.com/ru/articles/861746/)
+  - [wiki: Сборка пакета с нуля](https://www.altlinux.org/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0_%D1%81_%D0%BD%D1%83%D0%BB%D1%8F)
+  - [dzen видео: Сборка RPM-пакета в Linux](https://dzen.ru/video/watch/66acdb60dbbcda63ae728bf8)
+  - [«Доверенная разработка программных пакетов
+и сборка программного обеспечения: УЧЕБНО-МЕТОДИЧЕСКОЕ ПОСОБИЕ](https://edu.rans.ru/wp-content/uploads/2025/01/ALT-UMK-Final.pdf)
+  - [RPM Packaging Guide](https://rpm-guide.readthedocs.io/en/latest/)
+  - [Руководство по сборке RPM пакетов](https://rpm-packaging-guide-ru.github.io/)
+  
