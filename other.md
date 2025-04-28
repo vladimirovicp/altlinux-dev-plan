@@ -41,3 +41,13 @@
   - [RPM Packaging Guide](https://rpm-guide.readthedocs.io/en/latest/)
   - [Руководство по сборке RPM пакетов](https://rpm-packaging-guide-ru.github.io/)
   
+
+  ## other
+
+  - [vk: Kirov OpenSource Community | KirovLUG](https://vk.com/kirov_osc)
+  - [статьи из ВК: Kirov OpenSource Community](https://vk.com/@kirov_osc-sborka-paketov-alt-linux)
+  - [статьи: Kirov OpenSource Community](https://vk.com/@kirov_osc)
+  - [Курс Администрирование ОС семейства UNIX](https://lms.crafted.su/unix-course/2023-2024/)
+  - [Altlinux как собрать свой](https://dom.virtual-kassa.ru/altlinux-kak-sobrat-svoy/)
+  - [Сборка бинарных пакетов для ALT Linux](https://akinfiyxb.livejournal.com/1929.html)
+  - [Сборка пакета шаг за шагом](https://mksegment.ru/d/alt-linux-kak-sobrat-paket)
