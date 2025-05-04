@@ -40,6 +40,8 @@
 и сборка программного обеспечения: УЧЕБНО-МЕТОДИЧЕСКОЕ ПОСОБИЕ](https://edu.rans.ru/wp-content/uploads/2025/01/ALT-UMK-Final.pdf)
   - [RPM Packaging Guide](https://rpm-guide.readthedocs.io/en/latest/)
   - [Руководство по сборке RPM пакетов](https://rpm-packaging-guide-ru.github.io/)
+
+  - [Шпаргалка начинающего мейнтейнера. Процедура Join](https://alt-join-guide.github.io/)
   
 
   ## other
@@ -51,3 +53,15 @@
   - [Altlinux как собрать свой](https://dom.virtual-kassa.ru/altlinux-kak-sobrat-svoy/)
   - [Сборка бинарных пакетов для ALT Linux](https://akinfiyxb.livejournal.com/1929.html)
   - [Сборка пакета шаг за шагом](https://mksegment.ru/d/alt-linux-kak-sobrat-paket)
+
+
+  ## Базальт СПО в СГУ
+  telegram [link](t.me/ALTSGU)
+
+> Linux-система как предметная область для разработки [Ссылка на трансляцию](https://bbb.basealt.space/playback/presentation/2.3/bb28c694fe15d79feef5470703252c4bee22390a-1740050593281)
+>
+> Kerberos: как устроена защищённая аутентификация? [Ссылка на трансляцию](https://bbb.basealt.space/playback/presentation/2.3/bb28c694fe15d79feef5470703252c4bee22390a-1740658184285)
+>
+> Сборка RPM пакетов: как создать свой собственный пакет для ALT Linux? [Ссылка на трансляцию](https://bbb.basealt.space/playback/presentation/2.3/bb28c694fe15d79feef5470703252c4bee22390a-1741866573296)
+> * [Шпаргалка начинающего мейнтейнера. Процедура Join.](https://alt-join-guide.github.io/)
+> * [лекция](https://github.com/alxvmr/ssu_rpm)
