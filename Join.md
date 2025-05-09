@@ -13,6 +13,8 @@
 
 > [Простая система сборки пакетов](https://www.altlinux.org/Gear)
 [Инструмент безопасной и воспроизводимой сборки пакетов](https://www.altlinux.org/Hasher)
+[Сборка RPM-пакета на Python в ALT Linux - youtube](https://www.youtube.com/watch?v=Fc_1FSykgWg)
+[Сборка RPM-пакета Python-проекта с помощью GEAR в ALT Linux - youtube](https://www.youtube.com/watch?v=xgst2-DBzjo)
 
 ## Пакеты
 
