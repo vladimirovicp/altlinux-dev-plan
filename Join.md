@@ -15,6 +15,32 @@
 >
 > [GitHub репозиторий, который содержит в себе ВСЕ .spec файлы пакетов, которые у нас были и есть в Sisyphus](https://github.com/altlinux/specs)
 
+## Для сотрудников
+
+> [Приветственное письмо](https://intranet.altlinux.ru/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE) 
+>
+> [Инструкция_сотруднику_BaseALT](https://intranet.altlinux.ru/Инструкция_сотруднику_BaseALT)
+
+
+## подписки
+>[rebase@ - BaseALT](https://lists.altlinux.org/mailman/options/rebase/peredumovajs%40basealt.ru)
+>
+>[devel-distro](https://lists.altlinux.org/mailman/listinfo/devel-distro)
+>
+>[releases-dev](https://lists.altlinux.org/mailman/listinfo/releases-dev)
+>
+>[sp-dev](https://lists.basealt.ru/mailman/listinfo/sp-dev)
+>
+>[ad-integration](https://lists.basealt.ru/mailman/listinfo/ad-integration)
+>
+>[sisyphus](https://lists.altlinux.org/mailman/listinfo/sisyphus)
+>
+>[sysadmins](https://lists.altlinux.org/mailman/listinfo/sysadmins)
+>
+>[broadcast](https://lists.altlinux.org/mailman/listinfo/broadcast)
+>
+> https://lists.altlinux.org/mailman/listinfo/release-dev
+
 ## Cборки пакетов
 
 > [Простая система сборки пакетов](https://www.altlinux.org/Gear)
