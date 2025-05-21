@@ -14,6 +14,8 @@
 > [самые часто используемые макросы(тут можно найти почти все макросы, которые могут пригодиться в большинстве пакетов)](https://www.altlinux.org/Spec/%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B)
 >
 > [GitHub репозиторий, который содержит в себе ВСЕ .spec файлы пакетов, которые у нас были и есть в Sisyphus](https://github.com/altlinux/specs)
+>
+> [Сборка пакетов start](https://www.altlinux.org/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2_start)
 
 ## Для сотрудников
 
