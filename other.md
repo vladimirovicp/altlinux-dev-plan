@@ -44,6 +44,10 @@
   - [Шпаргалка начинающего мейнтейнера. Процедура Join](https://alt-join-guide.github.io/)
   
 
+  ## Каналы Rutube
+  - [ALT Linux Team](https://rutube.ru/channel/32403463/videos/)
+  - [ALT Gnome](https://rutube.ru/channel/32425669/videos/)
+
   ## other
 
   - [vk: Kirov OpenSource Community | KirovLUG](https://vk.com/kirov_osc)
