@@ -17,6 +17,8 @@
 >
 > [Сборка пакетов start](https://www.altlinux.org/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2_start)
 >
+> [Технология сборки пакетов RPM](https://www.altlinux.org/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2_RPM)
+>
 >[RPM Documentation and examples](https://github.com/mdpiper/knowledge/blob/main/rpm.md)
 
 ## Для сотрудников
