@@ -32,6 +32,12 @@ hasher использует специальных вспомогательны�
 
 
 Путь
+```bash
+    hsh-shell home/name_user/.hasher
 ```
-    bsh-shell hone/name_user/.hasher
+
+
+### Ускановка в hasher mc
+```bash
+    hsh-install home/name_user/.hasher mc
 ```
