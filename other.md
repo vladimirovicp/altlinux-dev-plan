@@ -74,3 +74,31 @@
 > Сборка RPM пакетов: как создать свой собственный пакет для ALT Linux? [Ссылка на трансляцию](https://bbb.basealt.space/playback/presentation/2.3/bb28c694fe15d79feef5470703252c4bee22390a-1741866573296)
 > * [Шпаргалка начинающего мейнтейнера. Процедура Join.](https://alt-join-guide.github.io/)
 > * [лекция](https://github.com/alxvmr/ssu_rpm)
+
+
+## ЧаВо
+
+### Где посмотреть примеры spec-файлов?
+Информация взята [тут](https://lists.altlinux.org/pipermail/devel-newbies/2025-May/001415.html)
+> * Примеры и поиск по всем пакетам: https://packages.altlinux.org/
+>
+> * Архив бота specbot: https://git.altlinux.org/people/specbot/public/specs.git
+>
+> * Архив на гитхабе: https://github.com/altlinux/specs
+>
+> * http://altlinux.org/SampleSpecs
+>
+> * http://ftp.altlinux.org/pub/people/mike/SPECS/
+
+
+### Как найти пакет для сборки?
+> * Подборка из багзиллы "Собрать что-то новое": https://bugzilla.altlinux.org/buglist.cgi?bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&list_id=108990&order=bug_id%20DESC&product=New%2Fproposed%20packages&query_ba
+sed_on=%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5&query_format=advanced
+>
+> * Заброшенные пакеты, висящие "нинаком" (nobody): https://watch.altlinux.org/pub/watch/by-leader/%40nobody.txt
+>
+> * Пакеты, сборка которых сломана прямо сейчас, требующие починки: https://git.altlinux.org/beehive/logs/Sisyphus-x86_64/latest/error/
+>
+> * Ветка на форуме с пожеланиями: https://forum.altlinux.org/index.php?topic=838.0
+
+
