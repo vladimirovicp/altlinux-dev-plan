@@ -9,7 +9,7 @@ github : https://github.com/lainsce/khronos
 ## Установка
 hasher в Sisyphus и дистрибутивах ALT Linux располагается в пакетах hasher, hasher-priv и легко устанавливается:
 ```bash
-    apt-get install hashed
+    apt-get install hasher
 ```
 С версии 2.0 пакета hasher-priv нужно запустить сервис hasher-privd:
 ```bash
@@ -40,7 +40,8 @@ hasher использует специальных вспомогательны�
     hsh-shell home/name_user/.hasher
 ```
 
-зайди в папку
+
+открыть shell hasger
 ```bash
     hsh-shell 
 ```
@@ -90,4 +91,13 @@ hasher использует специальных вспомогательны�
 
 ```bash
 rpmi -qa | rpm
+```
+
+
+```bash
+[admin@host-15 ~]$ hsh-shell
+[builder@localhost /]$ cd ~
+[builder@localhost ~]$ cd RPM/
+[builder@localhost RPM]$ ls
+BUILD  RPMS  SOURCES  SPECS  SRPMS
 ```
