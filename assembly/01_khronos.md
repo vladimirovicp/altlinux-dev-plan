@@ -102,3 +102,56 @@ rpmi -qa | rpm
 BUILD  RPMS  SOURCES  SPECS  SRPMS
 ```
 
+Посмотреть группы
+
+```bash
+cat /usr/lib/rpm/GROUPS
+```
+
+
+Показать скрытые папки и файлы ctrl + h
+
+Папка /home/admin/hasher/chroot/.in
+
+Папка /home/admin/hasher/chroot/.out
+
+Набросок spec
+
+```
+
+%define name khronos
+%define 
+
+Name: khronos
+Version: 4.0.0
+Release: alt1
+
+Summary: Track each task's time in a simple inobtrusive way
+License: public domain
+Group: Other
+
+URL: https://github.com/lainsce/khronos
+Source: khronos-4.0.0.tar.gz
+
+%description
+
+%prep
+%setup hronos-3.7.0
+
+BuildArch: noarch
+
+
+%build
+
+# should be empty
+%files
+
+# use add_changelog to populate %changelog section
+%changelog
+Mon June 02 2025 lainsce <fad@altlinux.ru> 3.7-alt1.1
+- first
+
+```
+
+
+
