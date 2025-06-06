@@ -1,5 +1,11 @@
 # join
 
+> Собрала ссылки, имеющие отношение к Join, в один список:
+https://intranet.altlinux.ru/Join#Ссылки
+>
+>Предложения по размещению это списка:
+https://intranet.altlinux.ru/Join#Заметки_на_полях
+>
 > [Join ALT Linux Wiki](https://www.altlinux.org/Join)
 >
 > [Руководство начинающего мейнтейнера ALT Linux Team](https://www.altlinux.org/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B9%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B0_ALT_Linux_Team)
