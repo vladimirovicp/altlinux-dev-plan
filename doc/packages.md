@@ -21,6 +21,14 @@ apt-get install update && apt-get inastall disk-upgrade
 
 ## hasher-rich-chroot-user-utils
 
+## rpmdevtools
+
+Пакет с набором программ для сборки пакетов
+
+```bash
+apt-get install rpmdevtools
+```
+
 ## rpm-utils
 
 ## rpm-build
