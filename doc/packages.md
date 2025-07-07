@@ -1,5 +1,10 @@
 # packages
 
+```bash
+apt-get install update && apt-get inastall disk-upgrade
+
+```
+
 ## git
 Общий рабочий инструмент для любого разработчика
 
@@ -50,17 +55,35 @@
 ## gcc
 Используется для компиляции программ на языке C.
 
+Устанавливаем компилтор для C
+```bash
+apt-get install gcc 
+```
+
 ## gcc-c++
+Устанавливаем компилтор для C++
+```bash
+apt-get install gcc-c++
+``` 
 
 ## make
 
 ## cmake
+Устанавливаем cmake
+```bash
+apt-get install cmake
+``` 
+
+## cmake gdb
+
+Устанавливаем отладчик Cmake
+```bash
+apt-get install cmake gdb
+```
 
 ## rpm-devel 
 
 ## rpmlint 
-
-## make 
 
 ## python 
 
@@ -73,3 +96,9 @@
 ## patch 
 
 ## rpmdevtools
+
+
+# VS Code
+
+*   C/C++ Extension Pack
+*   CMake
