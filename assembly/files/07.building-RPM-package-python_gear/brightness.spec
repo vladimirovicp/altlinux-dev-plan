@@ -13,13 +13,16 @@ Source:%name-%version.tar
 BuildArch: noarch
 
 
-Requires: python3-module-qtpy
-Requires: python3-module-PyQt5
-Requires: python3-module-poetry
-Requires: rpm-build-python3
+BuildRequires: python3-module-qtpy
+BuildRequires: python3-module-PyQt5
+BuildRequires: python3-module-poetry
+BuildRequires: rpm-build-python3
+Requires: python3-module-cx-freeze
 
 %description
 Using Brightness Controller? you can control brightness of both primary and external displays in Linux. Check it out!
+
+%add_python3_req_skip util.check_displays
 
 %prep
 %setup -q
