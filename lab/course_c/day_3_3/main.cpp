@@ -5,9 +5,11 @@ int main(int argc, char *argv[]){
 
     int count = 100;
 
-    for (size_t i = 0; i < count; i++)
+    for (int i = 1; i <= count; i++)
     {
-        printf("%d", i);
+        printf("%i", i);
+        
+        i%10 ? printf(" ") : printf("\n");
     }
     
 
