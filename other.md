@@ -102,3 +102,6 @@ sed_on=%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%
 > * Ветка на форуме с пожеланиями: https://forum.altlinux.org/index.php?topic=838.0
 
 
+* [Дневник погружения в работу с одноплатниками](https://github.com/Besogon1238/SSU-BaseALT/blob/main/README.md)
+
+
