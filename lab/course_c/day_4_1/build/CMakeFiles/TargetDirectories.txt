@@ -1,0 +1,3 @@
+/home/localadmin/git/altlinux-dev-plan/lab/course_c/day_4_1/build/CMakeFiles/start.dir
+/home/localadmin/git/altlinux-dev-plan/lab/course_c/day_4_1/build/CMakeFiles/edit_cache.dir
+/home/localadmin/git/altlinux-dev-plan/lab/course_c/day_4_1/build/CMakeFiles/rebuild_cache.dir
