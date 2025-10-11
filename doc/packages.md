@@ -110,3 +110,10 @@ apt-get install cmake gdb
 
 *   C/C++ Extension Pack
 *   CMake
+
+
+# Пакеты, кторые могут быть полезны
+
+* perl-Gear-Remotes
+* gear-remotes-utils
+* [etersoft-build-utils](https://packages.altlinux.org/ru/sisyphus/srpms/etersoft-build-utils/)
