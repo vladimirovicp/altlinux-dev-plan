@@ -32,7 +32,7 @@
 
     - https://docs.python.org/3/ - Python documentation
 
-  
+
 
   - [Руководство по сборке RPM-пакетов для дистрибутивов Альт](https://alt-packaging-guide.github.io/) 
   - [Хабр 2024: Введение в сборку RPM-пакетов в ОС «Альт» Linux: основы и первый пример](https://habr.com/ru/articles/861746/)
@@ -105,3 +105,7 @@ sed_on=%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%
 * [Дневник погружения в работу с одноплатниками](https://github.com/Besogon1238/SSU-BaseALT/blob/main/README.md)
 
 
+## SPEC
+
+>* [Общие правила написания спек файлов в ALT Linux](https://www.altlinux.org/Общие_правила_написания_спек_файлов_в_ALT_Linux)
+>* [Особенности написания спек файлов в ALT Linux](https://www.altlinux.org/Особенности_написания_спек_файлов_в_ALT_Linux)
