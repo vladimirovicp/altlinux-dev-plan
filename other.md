@@ -76,6 +76,7 @@
 > * [лекция](https://github.com/alxvmr/ssu_rpm)
 
 
+
 ## ЧаВо
 
 ### Где посмотреть примеры spec-файлов?
@@ -115,3 +116,5 @@ sed_on=%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%
 
 * [gear-remotes-utils](https://packages.altlinux.org/ru/sisyphus/binary/gear-remotes-utils/noarch/) - [инфа на вики](https://www.altlinux.org/Gear/remotes)
 * [etersoft-build-utils](https://packages.altlinux.org/ru/sisyphus/srpms/etersoft-build-utils/)
+* [sisyphus_check](https://packages.altlinux.org/ru/sisyphus/srpms/sisyphus_check/) - [sisyphus_check wiki](https://www.altlinux.org/Sisyphus_check)
+* [alt-rpmkeys](https://packages.altlinux.org/ru/sisyphus/binary/alt-rpmkeys/noarch/)
