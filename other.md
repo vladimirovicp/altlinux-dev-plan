@@ -109,3 +109,9 @@ sed_on=%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%
 
 >* [Общие правила написания спек файлов в ALT Linux](https://www.altlinux.org/Общие_правила_написания_спек_файлов_в_ALT_Linux)
 >* [Особенности написания спек файлов в ALT Linux](https://www.altlinux.org/Особенности_написания_спек_файлов_в_ALT_Linux)
+
+
+## Пакеты
+
+* [gear-remotes-utils](https://packages.altlinux.org/ru/sisyphus/binary/gear-remotes-utils/noarch/) - [инфа на вики](https://www.altlinux.org/Gear/remotes)
+* [etersoft-build-utils](https://packages.altlinux.org/ru/sisyphus/srpms/etersoft-build-utils/)
